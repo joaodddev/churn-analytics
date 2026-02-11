@@ -1,4 +1,4 @@
-# 🌌 Churn Insight Pro - Deep Dark Analytics
+# 🌌 Churn Insight - Deep Dark Analytics
 
 ![Status](https://img.shields.io/badge/Status-Completo-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
